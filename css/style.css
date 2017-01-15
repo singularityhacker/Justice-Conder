@@ -347,6 +347,8 @@ margin-left: -17px; line-height: 50px; }
 .skill-chart .skill-chart-expand .expand.expand-left:before { margin-left: 0; }
 .skill-chart .skill-chart-expand .expand.expand-right { text-align: right; }
 .skill-chart .skill-chart-expand .expand.expand-right:before { margin-right: 0; }
+.resume-info h4 { text-align: center; }
+/*.achievments { text-align: center; }*/
 
  /*************************
     language-skills 
