@@ -159,7 +159,7 @@ NOTE:
 *************************/
   var win = $(window),
       foo = $('#typer');
-      foo.typer(['<h2>Scrum Master</h2>','<h2>Scrum Coach</h2>','<h2>Developer</h2>']);      
+      foo.typer(['<h2>Agile Practitioner</h2>','<h2>Professional Scrum Master</h2>','<h2>Software Project Manager</h2>']);      
             win.resize(function(){
               var fontSize = Math.max(Math.min(win.width() / (1 * 10), parseFloat(Number.POSITIVE_INFINITY)), parseFloat(Number.NEGATIVE_INFINITY));
               foo.css({
